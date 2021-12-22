@@ -1,6 +1,6 @@
 {
-	"author": "aritomo shinozaki",
 	"name": "fcc-learn-npm-package-json",
+	"author": "aritomo shinozaki",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
